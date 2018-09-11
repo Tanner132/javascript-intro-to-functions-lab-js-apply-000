@@ -16,3 +16,7 @@ function logShout(string) {
 
 function sayHiToGrandma(string){
  
+ if (string === )
+
+  
+}
