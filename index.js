@@ -23,5 +23,5 @@ function sayHiToGrandma(string){
   {
     return "YES INDEED!";
         }
-    return "YES INDEED!";
+    return "";
   }
