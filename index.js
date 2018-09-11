@@ -16,13 +16,17 @@ function logShout(string) {
 
 function sayHiToGrandma(string){
  
- if (string === "I love you, grandma!")
+ if (string === "I love you, grandma!");
  {
-   
- } else if () 
+   return "I love you, too!";
+ } else if (string === string.toUpperCase()) ;
  {
-   
- }else 
+   return "YES INDEED!";
+ } else ;
+ {
+   return 
+ }
+ 
  
    
  
